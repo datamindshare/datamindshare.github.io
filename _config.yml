@@ -9,7 +9,7 @@ name: Data MindShare Blog
 description: A fun place to share our Data Science fun - enjoy!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![_config.yml]({{ site.baseurl }}/images/answer.png)
+avatar: https://tellandtrain.com/wp-content/uploads/2017/12/problemsolved.jpg
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
